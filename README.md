@@ -44,8 +44,3 @@ The outputs were generated for each combination of:
 - **3 topic modeling algorithms**
 
 Total combinations: **27 topic model outputs**
-
----
-
-## 📂 Repository Structure
-
