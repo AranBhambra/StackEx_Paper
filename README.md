@@ -44,3 +44,22 @@ The outputs were generated for each combination of:
 - **3 topic modeling algorithms**
 
 Total combinations: **27 topic model outputs**
+
+---
+
+## 🌐 Interactive Visualizations
+
+The HTML files in `/results/` contain topic modeling visualizations for each combination of:
+
+- **Word embeddings:** Unigram BOW, Bigram BOW, TF-IDF  
+- **Topic models:** LDA, NMF, BERTopic  
+- **COVID periods:** Pre-COVID, During-COVID, Post-COVID  
+
+> **Note:** GitHub cannot directly render some of these HTML files due to JavaScript dependencies.  
+> To view the interactive visualizations, you can use [HTML Preview](https://htmlpreview.github.io/):  
+> 1. Click the HTML file in GitHub and copy the **raw URL** (click **View Raw**).  
+> 2. Go to [https://htmlpreview.github.io/](https://htmlpreview.github.io/) and paste the URL.  
+> 3. The visualization will render interactively in your browser.
+
+Example raw URL for testing:
+https://github.com/AranBhambra/StackEx_Paper/blob/main/results/bigram/pre_covid/bigram_lda_visual_period1.html
